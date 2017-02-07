@@ -1,7 +1,7 @@
 
 > 根据张鑫旭的 requestAnimationFrame 和 tween.js 稍作改动
 
-### useage
+### usage
 
 ```
 var a = function(){
